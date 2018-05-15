@@ -1,5 +1,5 @@
 # AC-dialogue-generation
 
-An experiment trying to generation dialogues using actor-critic frameworks.
+An experiment trying to generate dialogues using actor-critic frameworks.
 
 IN PROGRESS
